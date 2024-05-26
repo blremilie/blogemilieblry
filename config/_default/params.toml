@@ -1,0 +1,45 @@
+# Pages placed in posts section will be shown on homepage
+mainSections = ["post"]
+
+# Left Side Bar (avatar,bio...)
+[sidebar]
+subtitle = "A la recherche d'une alternance dans le développement web Frontend ReactJS entre Marseille, Aix, Avignon et Nîmes, je vous propose quelques projets personnalisés que j'ai pu réaliser et bien d'autres seront à venir ! bletteryemilie[at]gmail[dot]com"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "img/logo.jpg"
+
+[article]
+headingAnchor = false
+math = false
+readingTime = true
+
+[article.license]
+enabled = true
+default = "Licensed under CC BY-NC-SA 4.0"
+
+## Widgets
+[[widgets.homepage]]
+type = "search"
+
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 5
+
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.homepage]]
+type = "tag-cloud"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.page]]
+type = "toc"

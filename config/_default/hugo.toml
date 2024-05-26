@@ -1,0 +1,4 @@
+baseURL = 'https://PortfolioEmilieBlry.org/'
+languageCode = 'en-us'
+title = 'Portfolio Emilie Blettery'
+theme='stack'
