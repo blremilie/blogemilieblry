@@ -1,7 +1,7 @@
 ---
 title: 'Next !'
-date: 2024-05-24T15:17:24+06:00
-image: 'images/post2b.png'
+date: 2024-05-26T15:17:24+06:00
+image: post2b.png
 draft: false
 ---
 

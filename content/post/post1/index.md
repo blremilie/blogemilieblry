@@ -1,7 +1,7 @@
 ---
-title : 'First Post'
-date : 2024-05-24T15:17:24+06:00
-image: 'post1b.png'
+title : 'Neswletter'
+date : 2024-05-23T15:17:24+06:00
+image: post1b.png
 draft : false
 ---
 

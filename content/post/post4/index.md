@@ -1,8 +1,8 @@
 ---
-title : 'Forever Young'
-date : 2024-05-24T15:17:24+06:00
-image: 'post4b.png'
-draft : false
+title: 'Forever Young'
+date: 2024-05-24T15:17:24+06:00
+image: post4b.png
+draft: false
 ---
 
 # _La calculette redoutée_
