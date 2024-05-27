@@ -1,8 +1,9 @@
-+++
-title = 'The game post'
-date = 2024-05-24T15:17:24+06:00
-draft = false
-+++
+---
+title : 'The game'
+date : 2024-05-24T15:17:24+06:00
+image : 'post3b.png'
+draft : false
+---
 
 # _Un jeu d'enfant !_
 

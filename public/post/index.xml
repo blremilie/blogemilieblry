@@ -7,24 +7,36 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 24 May 2024 15:17:24 +0600</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>API</title>
+        <link>http://localhost:1313/post/post5/post5/</link>
+        <pubDate>Fri, 24 May 2024 15:17:24 +0600</pubDate>
+        
+        <guid>http://localhost:1313/post/post5/post5/</guid>
+        <description>&lt;img src="http://localhost:1313/post5b.png" alt="Featured image of post API" /&gt;&lt;p&gt;&lt;em&gt;Privilégiez la rapidité&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Grâce à l&amp;rsquo;API de ce site, rentrez vos URL à rallonge pour retrouvez la simplicité !&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/blremilie/api&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/blremilie/api&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>First Post</title>
         <link>http://localhost:1313/post/post1/</link>
         <pubDate>Fri, 24 May 2024 15:17:24 +0600</pubDate>
         
         <guid>http://localhost:1313/post/post1/</guid>
-        <description>&lt;h1 id=&#34;_la-newsletter-pour-rester-connecter-_&#34;&gt;&lt;em&gt;La Newsletter pour rester connecter !&lt;/em&gt;
-&lt;/h1&gt;&lt;p&gt;Voici mon premier site de Newsletter, 100% responsive&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/post/post1/post1b.png" alt="Featured image of post First Post" /&gt;&lt;h1 id=&#34;_la-newsletter-pour-rester-connecter-_&#34;&gt;&lt;em&gt;La Newsletter pour rester connecter !&lt;/em&gt;
+&lt;/h1&gt;&lt;p&gt;Voici mon premier site de Newsletter&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://newslettersexample.netlify.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://newslettersexample.netlify.app/&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Forever young ?</title>
+        <title>Forever Young</title>
         <link>http://localhost:1313/post/post4/post4/</link>
         <pubDate>Fri, 24 May 2024 15:17:24 +0600</pubDate>
         
         <guid>http://localhost:1313/post/post4/post4/</guid>
-        <description>&lt;h1 id=&#34;_la-calculette-redoutée_&#34;&gt;&lt;em&gt;La calculette redoutée&lt;/em&gt;
+        <description>&lt;img src="http://localhost:1313/post4b.png" alt="Featured image of post Forever Young" /&gt;&lt;h1 id=&#34;_la-calculette-redoutée_&#34;&gt;&lt;em&gt;La calculette redoutée&lt;/em&gt;
 &lt;/h1&gt;&lt;p&gt;Ceci est bien un site Javascript, ne pas confondre avec les signes astrologiques des développeurs !&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://agecalculatorgame.netlify.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://agecalculatorgame.netlify.app/&lt;/a&gt;&lt;/p&gt;
@@ -36,29 +48,19 @@
         <pubDate>Fri, 24 May 2024 15:17:24 +0600</pubDate>
         
         <guid>http://localhost:1313/post/post2/post2/</guid>
-        <description>&lt;h1 id=&#34;_un-site-pour-faire-attention-_&#34;&gt;&lt;em&gt;Un site pour faire attention !&lt;/em&gt;
+        <description>&lt;img src="http://localhost:1313/post2b.png" alt="Featured image of post Next !" /&gt;&lt;h1 id=&#34;_un-site-pour-faire-attention-_&#34;&gt;&lt;em&gt;Un site pour faire attention !&lt;/em&gt;
 &lt;/h1&gt;&lt;p&gt;Grâce à Charts React, nous pouvons suivre notre quotidien en graphique&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://chartsexamples.netlify.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://chartsexamples.netlify.app/&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Pretty URL</title>
-        <link>http://localhost:1313/post/post5/post5/</link>
-        <pubDate>Fri, 24 May 2024 15:17:24 +0600</pubDate>
-        
-        <guid>http://localhost:1313/post/post5/post5/</guid>
-        <description>&lt;p&gt;&lt;em&gt;Privilégiez la rapidité&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Grâce à l&amp;rsquo;API de ce site, rentrez vos URL à rallonge pour retrouvez la simplicité !&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>The game post</title>
+        <title>The game</title>
         <link>http://localhost:1313/post/post3/post3/</link>
         <pubDate>Fri, 24 May 2024 15:17:24 +0600</pubDate>
         
         <guid>http://localhost:1313/post/post3/post3/</guid>
-        <description>&lt;h1 id=&#34;_un-jeu-denfant-_&#34;&gt;&lt;em&gt;Un jeu d&amp;rsquo;enfant !&lt;/em&gt;
+        <description>&lt;img src="http://localhost:1313/post3b.png" alt="Featured image of post The game" /&gt;&lt;h1 id=&#34;_un-jeu-denfant-_&#34;&gt;&lt;em&gt;Un jeu d&amp;rsquo;enfant !&lt;/em&gt;
 &lt;/h1&gt;&lt;p&gt;React nous permet encore une fois de pouvoir pratiquer, attention aux mauvais gagnants !&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tictactoesgameofchild.netlify.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://tictactoesgameofchild.netlify.app/&lt;/a&gt;&lt;/p&gt;

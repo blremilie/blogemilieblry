@@ -1,7 +1,8 @@
 ---
-title : 'Next !'
-date : 2024-05-24T15:17:24+06:00
-draft : false
+title: 'Next !'
+date: 2024-05-24T15:17:24+06:00
+image: 'images/post2b.png'
+draft: false
 ---
 
 # _Un site pour faire attention !_
