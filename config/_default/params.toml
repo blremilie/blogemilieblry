@@ -3,7 +3,7 @@ mainSections = ["post"]
 
 # Left Side Bar (avatar,bio...)
 [sidebar]
-subtitle = "A la recherche d'une alternance dans le développement web Frontend ReactJS entre Marseille, Aix, Avignon et Nîmes, je vous propose quelques projets personnalisés que j'ai pu réaliser et bien d'autres seront à venir ! bletteryemilie[at]gmail[dot]com"
+subtitle = "A la recherche d'une alternance dans le développement web Frontend ReactJS entre Marseille, Aix, Avignon et Nîmes, je vous propose quelques projets personnalisés que j'ai pu réaliser et bien d'autres seront à venir ! "
 
 [sidebar.avatar]
 enabled = true
